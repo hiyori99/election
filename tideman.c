@@ -1,3 +1,5 @@
+// 即時決選投票システムの実装
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
